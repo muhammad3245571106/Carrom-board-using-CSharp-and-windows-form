@@ -1,4 +1,4 @@
-# Carrom-board-using-CSharp-and-windows-form
+# Carrom board frontend using CSharp and Windows form
 This is a carrom board frontend developed using C# and Windows form.
 ## Carrom Game
 Carrom or Karom is a game that has long been played throughout India and South East Asia but the game has
